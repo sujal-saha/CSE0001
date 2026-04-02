@@ -1,57 +1,74 @@
-# Digital Literacy Portfolio: Student Digital Ambassador Project
+Digital Literacy Project Portfolio
 
-## Project Overview
-This repository contains the comprehensive Digital Literacy Portfolio developed as part of the **CSE0001: Digital Literacy** course. As a Student Digital Ambassador, this project documents a journey through five foundational modules designed to build a professional presence, safe communication habits, and online security awareness.
+Course Code: CSE0001 
 
-## Student Information
-* **Name:** SUJAL SAHA
-* **Registration Number:** 25BAI10351
-* **Branch:** B.Tech CSE ($AI/ML$)
-* **Year:** First Year B.Tech
-* **Institution:** VIT Bhopal
-* **Submission Date:** 31/03/2026
+Course Title: Digital Literacy 
 
----
+Student Name: SUJAL SAHA
 
-## Portfolio Modules
+Registration Number: 25BAI10351
 
-### Task 1: Digital Literacy Awareness Infographic
-Created a one-page visual guide using **Canva** focusing on three pillars:
-* Defining Digital Literacy.
-* Safe internet practices.
-* Professional email etiquette.
+Branch: BTECH - Computer Science and Engineering (Artificial Intelligence and Machine Learning)
+Project Overview
 
-### Task 2: Student Digital Portfolio
-Established a professional digital footprint across multiple platforms:
-* **LinkedIn:** Primary professional networking tool.
-* **GitHub:** Repository for academic and personal coding projects.
-* **Kaggle:** Platform for data science exploration and coding competitions.
+This repository serves as my Digital Literacy Portfolio, created as part of my role as a Student Digital Ambassador. The goal of this project is to demonstrate proficiency in navigating the digital world, from professional profile management to safe online communication and cybercrime awareness.
+Module Summaries
+Module 1: Digital Literacy Awareness
 
-### Task 3: Coding & Collaboration Platforms
-Focused on technical proficiency and digital teamwork:
-* **HackerRank:** Completed the "Solve Me First" challenge to build problem-solving skills.
-* **Google Forms:** Designed a "Digital Literacy Awareness Quiz" to test peer knowledge on online safety.
+    Task: Created a one-page visual resource/infographic to help peers understand digital literacy and safe internet practices.
 
-### Task 4: Professional Communication & Etiquette
-Developed essential soft skills for the digital workspace:
-* Drafted formal emails for assignment extensions and internship inquiries.
-* Created a "Social Media Do’s and Don’ts" checklist for responsible online personas.
-* Researched the impact of tone in digital communication to prevent misinterpretation.
+    Location: /task-1-presentation/ 
 
-### Task 5: Cybercrime Awareness & Prevention
-Researched security threats and reporting mechanisms:
-* **Case Study:** Investigated Phishing and the sophistication of "spear-phishing" attacks.
-* **Safety Resources:** Compiled guides for using the **National Cyber Crime Portal** (cybercrime.gov.in) and the **1930 helpline**.
+Module 2: Student Digital Portfolio
 
----
+    Task: Established a professional digital presence by setting up and updating profiles on key platforms like GitHub and LinkedIn.
 
-## Conclusion
-This project establishes a professional foundation encompassing technical skill, branding, and security awareness. These tools and profiles will serve as a living record of engineering growth over the next four years.
+    Location: /task-2-portfolio/ 
 
-## Resources Used
-* [Canva](https://canva.com) - Infographic Design
-* [GitHub](https://github.com) - Portfolio Hosting
-* [LinkedIn](https://linkedin.com) - Professional Networking
-* [HackerRank](https://hackerrank.com) - Coding Practice
-* [Google Forms](https://forms.google.com) - Collaboration
-* [National Cyber Crime Portal](https://cybercrime.gov.in) - Safety Resources
+Module 3: Coding & Collaboration Platforms
+
+    Task: Practiced technical skills on coding platforms and developed a Google Form "Digital Literacy Awareness Quiz" for batchmates.
+
+    Location: /task-3-platforms/ 
+
+Module 4: Professional Communication
+
+    Task: Drafted professional emails for academic and internship requests and created a social media "Do's and Don'ts" checklist.
+
+    Location: /task-4-email-etiquette/ 
+
+Module 5: Cybercrime Awareness
+
+    Task: Researched a cybercrime case study and developed a prevention guide to help students recognize and avoid online threats.
+
+    Location: /task-5-cybercrime/ 
+
+Key Links
+
+    Digital Literacy Quiz (Google Form): https://forms.gle/GBsVwtMoXZKyutGE7
+
+    LinkedIn Profile: https://www.linkedin.com/in/sujal-saha-b65586400/
+
+    Coding Profile: https://www.hackerrank.com/profile/sujal_25bai10351
+
+Repository Structure
+
+As per the project requirements, this repository is organized as follows:
+
+    README.md: Project overview and module summaries.
+
+    report/: Contains the full project report (PDF/DOCX).
+
+    task-1-presentation/: Infographic and design description.
+
+    task-2-portfolio/: Screenshots of professional profiles.
+
+    task-3-platforms/: Proof of coding challenges and Google Form screenshots.
+
+    task-4-email-etiquette/: Email drafts and social media checklist.
+
+    task-5-cybercrime/: Case study and prevention guide.
+
+Declaration
+
+All work included in this repository is individual and reflects my own understanding and experience. External sources and tools used have been cited in the final project report.
