@@ -9,10 +9,13 @@ Student Name: SUJAL SAHA
 Registration Number: 25BAI10351
 
 Branch: BTECH - Computer Science and Engineering (Artificial Intelligence and Machine Learning)
+
 Project Overview
 
 This repository serves as my Digital Literacy Portfolio, created as part of my role as a Student Digital Ambassador. The goal of this project is to demonstrate proficiency in navigating the digital world, from professional profile management to safe online communication and cybercrime awareness.
+
 Module Summaries
+
 Module 1: Digital Literacy Awareness
 
     Task: Created a one-page visual resource/infographic to help peers understand digital literacy and safe internet practices.
